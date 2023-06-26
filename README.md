@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **more about cybersecurity**
 
-- 💬 Ask me about **react, python, and html**
+- 💬 Ask me about **how I became interested in computer science as a major and cybersecurity as a profession**
 
 - 📫 How to reach me **reed.m.mccullough@gmail.com**
 
