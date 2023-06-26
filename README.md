@@ -1,4 +1,3 @@
-<h1 align="center">Reed McCullough</h1>
 <h3 align="center">A recent college graduate passionate about computer science and cybersecurity.</h3>
 
 - 🌱 I’m currently learning **more about cybersecurity**
