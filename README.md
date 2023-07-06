@@ -1,6 +1,6 @@
 <h3 align="center">A recent college graduate passionate about computer science and cybersecurity.</h3>
 
-- 🌱 I’m currently learning **more about cybersecurity**
+- 🌱 I’m currently learning **more about cybersecurity and how I can make a difference**
 
 - 💬 Ask me about **how I became interested in computer science as a major and cybersecurity as a profession**
 
